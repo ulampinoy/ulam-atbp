@@ -65,6 +65,11 @@ sup {
   font-variant: small-caps;
 }
 
+.upper-case {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
 /* Combine this class with a width to truncate text (or just leave as is to truncate at width of containing element. */
 
 .truncate {
