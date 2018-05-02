@@ -39,6 +39,16 @@ sup {
   vertical-align: super;
 }
 
+.cms figcaption h4 {
+  font-size: .8rem;
+  font-weight: 500;
+  margin-bottom: 2rem;
+  border-bottom: 4px solid #eee;
+  display: inline-block;
+  padding-bottom: .5em;
+
+}
+
 /* Measure is limited to ~66 characters */
 .measure {
   max-width: 30em;
