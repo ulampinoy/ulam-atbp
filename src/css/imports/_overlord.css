@@ -1,0 +1,47 @@
+main {
+  display: grid;
+  grid-template-columns: 1fr 22em;
+}
+
+.feat {
+    grid-column: 1 / 2;
+}
+
+.new {
+    grid-column: 2 / 3;
+    flex-flow: column;
+}
+
+.cms figure {
+    margin-top: 1rem;
+}
+
+.cms img {
+    border-radius: 0;
+    margin-bottom: .5rem;
+    width: 100%;
+}
+.cms h4 {
+    font-weight: 600;
+}
+
+.cms figcaption h4 {
+    border-bottom: 0;
+    color: #808080;
+    margin-bottom: 1rem;
+}
+
+.cms h3 {
+    font-size: 1.4rem;
+    max-width: 36rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cms p {
+    margin: 1rem auto 2.5rem;
+}
+
+.cms p:nth-child(2) {
+    margin-top: 2rem;
+}

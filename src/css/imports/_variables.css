@@ -11,12 +11,14 @@
 	--black: rgba(44, 44, 44, 1);
 
 	/* Typography */
-	--font-family: Catamaran, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
+	--font-family: 'Catamaran', -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
+	--font-family-serif: 'IBM Plex Serif', Georgia, Times, 'Times New Roman', serif;
+
 	--line-height: 1.5;
 
-	--font-size: 18px;
-	--font-size-m: 20px;
-	--font-size-l: 22px;
+	--font-size: 14px;
+	--font-size-m: 16px;
+	--font-size-l: 18px;
 
 	--body-font-weight: 400;
 	--bold-font-weight: 700;
@@ -32,6 +34,6 @@
 	--spacing-extra-extra-extra-large: 16rem;
 
 	/* Miscelaneous */
-	--border-radius: .25rem;
+	--border-radius: 0;
 	--hover-transition: all 150ms ease;
 }

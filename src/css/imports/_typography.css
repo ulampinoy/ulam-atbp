@@ -9,7 +9,6 @@ html {
   background-color: var(--black);
 }
 
-
 body {
   font-family: var(--font-family);
   font-size: var(--spacing-medium);
@@ -17,12 +16,17 @@ body {
   font-weight: var(--body-font-weight);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
   background-color: var(--off-white);
- }
+}
 
 p {
+  font-family: var(--font-family-serif);
+  font-size: var(--spacing-medium);
   margin-bottom: var(--spacing-medium);
-  max-width: 32rem;
+  max-width: 36rem;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 strong {
@@ -34,19 +38,18 @@ em {
 }
 
 sup {
-  font-size: .6rem;
+  font-size: 0.6rem;
   font-weight: 700;
   vertical-align: super;
 }
 
 .cms figcaption h4 {
-  font-size: .8rem;
+  font-size: 0.8rem;
   font-weight: 500;
   margin-bottom: 2rem;
   border-bottom: 4px solid #eee;
   display: inline-block;
-  padding-bottom: .5em;
-
+  padding-bottom: 0.5em;
 }
 
 /* Measure is limited to ~66 characters */
@@ -75,7 +78,7 @@ sup {
   font-variant: small-caps;
 }
 
-.upper-case {
+.upc {
   text-transform: uppercase;
   letter-spacing: 1px;
 }
@@ -89,7 +92,7 @@ sup {
 }
 
 @media (--breakpoint-not-small) {
-  .measure-ns  {
+  .measure-ns {
     max-width: 30em;
   }
   .measure-wide-ns {
