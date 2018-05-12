@@ -1,7 +1,7 @@
 :root {
 	/* Colors */
 	--primary: rgba(208, 2, 27, 1);
-	--highlight: rgba(254, 213, 198, 1);
+	--highlight: rgb(255, 242, 214);
 	--white: rgba(255, 255, 255, 1);
 	--off-white: rgba(255, 253, 252, 1);
 	--grey-1: rgba(244, 244, 244, 1);
@@ -14,11 +14,11 @@
 	--font-family: 'Catamaran', -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
 	--font-family-serif: 'IBM Plex Serif', Georgia, Times, 'Times New Roman', serif;
 
-	--line-height: 1.5;
+	--line-height: 1.6;
 
 	--font-size: 14px;
-	--font-size-m: 16px;
-	--font-size-l: 18px;
+	--font-size-m: 18px;
+	--font-size-l: 21px;
 
 	--body-font-weight: 400;
 	--bold-font-weight: 700;

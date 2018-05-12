@@ -1,5 +1,5 @@
 {{ define "main" }}
-  <div class="mw7 center ph3 pv5">
+  <article class="mw7 center ph3 pv5">
     <h4 class="f6 upc">{{ .Params.whetter }}</h4>
     <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
     <div class="cms mw7">
@@ -9,5 +9,5 @@
       {{ .Content }}
     </div>
     <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
-  </div>
+  </article>
 {{ end }}

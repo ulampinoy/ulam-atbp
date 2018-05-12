@@ -1,21 +1,23 @@
-<main class="ph3 mw8 center bg-off-white pv4">
-	<section class="feat w-100 flex-ns mhn1-ns flex-wrap mb3">
+<main class="flex flex-wrap pa3 bg-off-white">
+	<section class="feat w-100 w-two-thirds-l mb3">
 		{{ range first 1 (where .Site.Pages.ByDate.Reverse "Params.featloc" "start") }}
-		<div class="ph1-ns w-100 flex">
+		<div class="ph1-ns flex">
 			{{ .Render "li" }}
 		</div>
 		{{ end }}
 	</section>
-	<section class="new w-100 flex-ns mhn1-ns flex-wrap mb3">
-		{{ range first 4 (where .Data.Pages "Type" "post") }} {{ if not (in .Params.featloc "start")}}
-		<div class="ph1-ns flex">
-			<a href="{{ .Permalink }}" class="no-underline pa2 mb2 db w-100">
-				<img class="w-25 fr ml3 mt1" src="{{ .Params.photo }}" alt="cover photo: {{ .Title }}">
-				<h3 class="f7 mb1 upc">{{ .Params.whetter }}</h3>
-				<h2 class="f4 b lh-title mb1">{{ .Title }}</h2>
-				<p class="f6 mb0">{{ .Description }}</p>
-			</a>
-		</div>
-		{{ end }} {{ end }}
+	<section class="new w-100 w-third-l mb3">
+		{{ range first 4 (where .Data.Pages "Type" "post") }} 
+			{{ if not (in .Params.featloc "start")}}
+			<div class="ph1-ns flex">
+				<a href="{{ .Permalink }}" class="no-underline pa2 mb2 db w-100">
+					<img class="w-100 w-25-ns w-30-l fl-ns fr-m mr4 mr0-m ml3-m mt1 mb3" src="{{ .Params.photo }}" alt="cover photo: {{ .Title }}">
+					<h3 class="f6 f7-m mb1 upc">{{ .Params.whetter }}</h3>
+					<h2 class="f4 f6-m b lh-title mb1">{{ .Title }}</h2>
+					<p class="f5 f7-m mb0">{{ .Description }}</p>
+				</a>
+			</div>
+			{{ end }} 
+		{{ end }}
 	</section>
 </main>
