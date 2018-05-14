@@ -29,16 +29,14 @@ Easy to make one-pot chicken dish with vegetables. You can make a large batch an
 
 ### Procedure
 
-* Cut the chicken in medium portions.
-* Cut potatoes, carrots, red and green sweet bell peppers in bite-size chunks.
-* Mince the garlic, slice the onions and chop the tomatoes.
-* Sauté the garlic, onions and tomatoes. Cover to soften the tomatoes.
-* Add the chicken and sauté to give it some nice color.
-* Splash in the fish sauce. Cover the pot and simmer until the chicken is tender.
-* Add the carrots and potatoes. Simmer until tender.
-* Add the tomato sauce. Stir. Add the bell peppers. Salt to taste.
-* Put in the green peas.
-* Season with black pepper.
+1. Cut the chicken in medium portions. 
+Cut potatoes, carrots, red and green sweet bell peppers in bite-size chunks. 
+Mince the garlic, slice the onions and chop the tomatoes.
+2. Sauté the garlic, onions and tomatoes. Splash in the fish sauce. Cover to soften the tomatoes.
+3. Add the chicken and sauté to give it some nice color. Cover the pot and simmer until the chicken is tender.
+4. Add the carrots and potatoes. Simmer until tender.
+5. Add the tomato sauce. Stir. Add the bell peppers. Put in the green peas. 
+6. Salt to taste. Season with black pepper.
 
 Happy cooking and show us your version of Chicken Afritada via [Instagram](https://instagram.com/ulampinoy/) with **#ulampinoy**
 

@@ -33,8 +33,8 @@ The closest fish I can get here in Madrid for this recipe is the _caballa_ or th
 4. Slow cook until the liquid is reduced & add the mushrooms and chilis
 5. When the marinade has been reduced, it will start to sizzle. Let it fry until the skin of the mackerel is crispy.
 
-{{< figure src="/img/photos/soy-mackerel.jpg" title="dobong galunggong" >}}
+{{< figure src="/img/photos/soy-mackerel.jpg" title="Adobong galunggong" >}}
 
 Garnish with pimientos del piquillo & drizzle with extra-virgin olive oli. As always served with steamed rice. Goes well with beer.
 
-Happy cooking & _kain na!_ (now you know how to say “Eat Well” in Tagalog)
+Happy cooking & _kain na!_ (now you know how to say **“Eat Well”** in Tagalog)
