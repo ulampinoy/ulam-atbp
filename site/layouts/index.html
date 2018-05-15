@@ -1,11 +1,8 @@
 {{ define "main" }}
-
+<main class="flex flex-wrap mw8 justify-center center pa3 bg-off-white">
 {{ partial "blog" . }}
-
 {{ partial "video" . }}
-
+</main>
 {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
-
 {{ partial "short-text" .Params.blurb }}
-
 {{ end }}

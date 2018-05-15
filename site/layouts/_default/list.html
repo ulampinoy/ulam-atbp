@@ -2,9 +2,9 @@
 
 {{ partial "jumbotron" (dict "imageUrl" "/img/hero/taplonggitsilog.jpg" "title" "Latest stories") }}
 
-<div class="mw8 center">
+<div class="mw8 center mv4">
   <ul class="flex-ns flex-wrap mhn1-ns pa3">
-      {{ range (.Paginator 12).Pages.ByPublishDate }}
+      {{ range (.Paginator 12).Pages.ByPublishDate.Reverse }}
           <li class="w-50-ns ph1-ns flex">
             {{ .Render "li"}}
           </li>
