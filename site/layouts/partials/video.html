@@ -1,7 +1,7 @@
 <div class="mw8 center pa3">
     <section class="flex-ns flex-wrap mhn1-ns">
         <h2 class="f4 upc b lh-title mb2 w-100 ph3">Video Recipes</h2>
-        {{ range first 9 (where .Data.Pages "Type" "videos") }}
+        {{ range first 6 (where .Data.Pages "Type" "videos") }}
         <div class="w-third-l pa3">
             <a href="{{ .Permalink }}" class="mb2 db raise w-100">
                 <img class="w-100 mt1 mb3" src="{{ .Params.photo }}" alt="cover photo: {{ .Title }}">

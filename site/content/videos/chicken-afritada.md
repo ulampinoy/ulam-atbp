@@ -6,6 +6,7 @@ photo: /img/photos/chicken-afritada-pot.jpg
 whetter: One pot chicken goodness
 title: Chicken Afritada
 youtube: "YKF7N-6_PuI"
+layout: "bleed"
 ---
 
 Easy to make one-pot chicken dish with vegetables. You can make a large batch and save some for your *baon* to work. It is a complete *ulam* where you have the *sarsa* for the rice and the main deal - chicken and vegetable.

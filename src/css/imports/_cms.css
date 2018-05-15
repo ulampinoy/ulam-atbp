@@ -51,6 +51,11 @@
 		position: relative;
 	}
 
+	& ul li, & ol li  {
+		position: relative;
+		padding-left: 1rem;
+	}
+
 	& ul, & ol {
 		margin-bottom: var(--spacing-medium);
 	}
@@ -63,7 +68,7 @@
 		margin-left: 1.33rem;
 		& >li:before {
 			content: '❃';
-			left: -1.33rem;
+			left: 0rem;
 			position: absolute;
 			color: var(--grey-3);
 		}
@@ -75,7 +80,7 @@
 		counter-reset: i 0;
     & >li:before {
       font-weight: 700;
-      left: -var(--spacing-medium);
+      left: 0;
       position: absolute;
       height: 100%;
       content: counter(i);
