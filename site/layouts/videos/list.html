@@ -6,9 +6,9 @@
     <div class="mw8 center">
         <ul class="flex-ns flex-wrap mhn1-ns pa3">
             {{ range (.Paginator 12).Pages }}
-            <div class="w-100 w-50-ns w-third-m mt2 ph1-ns flex">
+            <li class="card w-100 w-50-ns w-third-m mt2 ph1-ns flex">
                 {{ .Render "li"}}
-            </div>
+            </li>
             {{ end }}
         </ul>
         {{ partial "pagination" . }}

@@ -1,6 +1,6 @@
 <section class="feat w-100 w-two-thirds-l mb3">
 	{{ range first 1 (where .Site.Pages.ByDate.Reverse "Params.featloc" "start") }}
-	<div class="pr2-ns flex">
+	<ul class="pr2-ns flex">
 		{{ .Render "li" }}
 	</div>
 	{{ end }}

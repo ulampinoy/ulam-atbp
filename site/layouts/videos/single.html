@@ -4,16 +4,19 @@
     {{ if .Params.photo }}
     <div class="bg-pos-center bg-size-cover dtc v-btm cover ph3 ph4-m ph5-l " style="background-image:url({{ .Params.photo }});">
       <h4 class="f6 upc white">{{ .Params.whetter }}</h4>
-      <h1 class="f2 fw9 mb5 f-subheadline-m measure lh-title white">{{.Title}}</h1>
+      <h1 class="f2 fw9 mb5 f-subheadline-ns measure lh-title white">{{.Title}}</h1>
     </div>
     {{ end }}
   </header>
   <div class="cms mw8 center pa3">
     {{ .Content }}
   </div>
-  <div class="max-vh-100-m vh-50 dt w-100" style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
-    <iframe src="//www.youtube.com/embed/{{ .Params.youtube }}?" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; max-height: 90vh;"
-      allowfullscreen="" title="YouTube Video" frameborder="0"></iframe>
+  <div class="cms mw8 center pa3 mb4">
+    <h4 class="f3 fw6 lh-title mb3">Watch and cook-along!</h4>
+    <div class="max-vh-100-m vh-50 dt w-100" style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+      <iframe src="//www.youtube.com/embed/{{ .Params.youtube }}?" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; max-height: 90vh;"
+        allowfullscreen="" title="YouTube Video" frameborder="0"></iframe>
+    </div>
   </div>
 </article>
 {{ end }}

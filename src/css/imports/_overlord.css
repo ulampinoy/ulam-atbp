@@ -58,3 +58,8 @@ a, a:hover {
     letter-spacing: -.03rem;
     initial-letter: 3.0;
 }
+
+.card p {
+    font-family: 'Catamaran', sans-serif;
+    letter-spacing: .01rem;
+}
