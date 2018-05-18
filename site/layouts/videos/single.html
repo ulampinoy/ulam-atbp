@@ -18,7 +18,20 @@
         allowfullscreen="" title="YouTube Video" frameborder="0"></iframe>
     </div>
   </div>
+  <div class="cms mw8 center pa3">
+    <div class="flex flex-wrap f6 fw8 mb4 justify-between">
+      {{if .Prev}}
+      <span class="w-50">
+        <a class="ph3 pv2 ba br1" href="{{.Prev.Permalink}}">← {{.Prev.Title}}</a>
+      </span>
+      {{end}}
+      {{if .Next}}
+      <span class="w-50 tr">
+        <a class="ph3 pv2 ba br1" href="{{.Next.Permalink}}">{{.Next.Title}} →</a>
+      </span>
+      {{end}}
+      
+    </div>
+  </div>
 </article>
 {{ end }}
-
-
