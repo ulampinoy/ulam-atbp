@@ -1,15 +1,21 @@
-<section class="feat w-100 w-two-thirds-l mb3">
+<section class="feat w-100 w-two-thirds-l mb3-ns">
+	<h3 class="f6 fw7 upc lh-title bg-black white dib ph2 pv1">What's new</h3>
 	{{ range first 1 (where .Site.Pages.ByDate.Reverse "Params.featloc" "start") }}
-	<ul class="pr2-ns flex">
-		{{ .Render "li" }}
+	<div class="flex">
+		<a href="{{ .Permalink }}" class="no-underline pa3-ns mb2 db raise w-100">
+			<img src="{{ .Params.photo }}" alt="cover photo: {{ .Title }}">
+			<h3 class="f6 f8-l mv1 upc">{{ .Params.whetter }}</h3>
+			<h2 class="f4 b lh-title mb1 mt1">{{ .Title }}</h2>
+			<p class="f6 mb0">{{ .Description }}</p>
+		</a>
 	</div>
 	{{ end }}
 </section>
-<section class="new w-100 w-third-l mb3">
+<section class="new w-100 w-third-l mv3 pt2">
 	{{ range first 4 (where .Data.Pages "Type" "post") }} 
 		{{ if not (in .Params.featloc "start")}}
-		<div class="ml2 pv2-ns flex bb b--grey-2">
-			<a href="{{ .Permalink }}" class="pa2 mb2 db w-100">
+		<div class="mh3-ns pv1-ns flex bb-ns mb2 mb0-ns b--grey-2">
+			<a href="{{ .Permalink }}" class="pv2 mv1 db w-100">
 				<img class="w-100 w-25-ns w-30-l fl-ns fr-m mr4 mr0-m ml3-m mt1 mb3" src="{{ .Params.photo }}" alt="cover photo: {{ .Title }}">
 				<h3 class="f6 f8-l mb1 upc">{{ .Params.whetter }}</h3>
 				<h2 class="f4 f6-m b lh-title mb1 link">{{ .Title }}</h2>

@@ -1,14 +1,15 @@
-<section class="flex-ns flex-wrap mhn1-ns">
-    <h3 class="f4 upc b lh-title mb2 w-100 ph2">Video Recipes</h3>
+<section class="flex-ns flex-wrap">
+    <div class="w-100">
+    <h3 class="f6 fw7 upc lh-title bg-black white dib ph2 pv1">Video Recipes</h3>
+    </div>
     {{ range first 6 (where .Data.Pages "Type" "videos") }}
-    <div class="w-third-l pa2">
+    <div class="w-50-ns w-third-l pa3">
         <a href="{{ .Permalink }}" class="mb2 db raise w-100">
             <img class="w-100 mt1 mb2" src="{{ .Params.photo }}" alt="cover photo: {{ .Title }}">
             <h4 class="f6 f7-l mb1 upc">{{ .Params.whetter }}</h4>
-            <h2 class="f4 f6-m b lh-title mb1 link">{{ .Title }}</h2>
+            <h2 class="f3 f6-m b lh-title mb1 link">{{ .Title }}</h2>
             <p class="f5 f7-m mb0">{{ .Description }}</p>
         </a>
     </div>
     {{ end }}
 </section>
-
