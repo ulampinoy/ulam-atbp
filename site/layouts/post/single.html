@@ -1,13 +1,29 @@
 {{ define "main" }}
-  <article class="mw8 center ph3 pv5">
-    <h4 class="f6 upc">{{ .Params.whetter }}</h4>
-    <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
-    <div class="cms mw8 center">
-      {{ if .Params.photo }}
-        <img class="mb4 mt1" src="{{ .Params.photo }}" alt="{{ .Title }}" />
-      {{ end }}
-      {{ .Content }}
-      <p class="f7 grey-3">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+<article>
+  <header class="max-vh-100-m vh-50 vh-100-ns dt w-100">
+    {{ if .Params.photo }}
+    <div class="bg-pos-center bg-size-cover dtc v-btm cover ph3 ph4-m ph5-l " style="background-image:url({{ .Params.photo }});">
+      <h4 class="f6 upc white">{{ .Params.whetter }}</h4>
+      <h1 class="f2 fw9 mb5 f-subheadline-ns measure lh-title white">{{.Title}}</h1>
     </div>
-  </article>
+    {{ end }}
+  </header>
+  <div class="cms mw8 center pa3">
+    {{ .Content }}
+  </div>
+  <div class="cms mw8 center pa3">
+    <div class="flex flex-wrap f6 fw8 mb4 justify-between">
+      {{if .Prev}}
+      <span class="w-auto">
+        <a class="ph3 pv2 ba br1" href="{{.Prev.Permalink}}">← {{.Prev.Title}}</a>
+      </span>
+      {{end}} {{if .Next}}
+      <span class="w-auto tr">
+        <a class="ph3 pv2 ba br1" href="{{.Next.Permalink}}">{{.Next.Title}} →</a>
+      </span>
+      {{end}}
+
+    </div>
+  </div>
+</article>
 {{ end }}
