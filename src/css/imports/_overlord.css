@@ -52,7 +52,7 @@ a, a:hover {
     margin: .5rem 0 1rem;
 }
 
-.cms p:nth-child(2) {
+.cms p:nth-child(1) {
     margin: 2rem auto;
     font-size: 1.3rem;
     letter-spacing: -.03rem;

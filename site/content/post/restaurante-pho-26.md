@@ -12,8 +12,7 @@ Long weekend o sa lokal na tawag, *"super puente".* Habang karamihan dito sa Mad
 Nag-umpisa ang aming pamamasyal sa Plaza de España umaasang makapanananghalian kami sa Chinese restaurant na matagal ng ibinubulong sa amin. Sikat pero misteryosong kainan sa ilalim ng Plaza de España. Oo literal nasa ilalim kasi nasa underground parking ito.
 
 ![Plaza de España](/img/photos/pho-26/fountain-pza-españa.jpg)
-![Plaza de España](/img/photos/pho-26/underground-pza-españa.jpg)
-
+![Underground parking of Plaza de España](/img/photos/pho-26/underground-pza-spain.jpg)
 ![Gran Vía – Callao](/img/photos/pho-26/gran-via-callao.jpg)
 
 ![Sriracha Rooster – the real deal](/img/photos/pho-26/sriracha-rooster.jpg)
