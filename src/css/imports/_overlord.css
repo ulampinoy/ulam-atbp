@@ -4,7 +4,7 @@ a, a:hover {
 
 .cms figure {
     margin: 1rem 0;
-    max-width: 36rem;
+    max-width: 40rem;
 }
 
 .cms figure.full {
@@ -14,7 +14,7 @@ a, a:hover {
 .cms img {
     border-radius: 0;
     margin: .5rem 0;
-    width: 100%;
+    max-width: 40rem;
 }
 .cms h4 {
     font-weight: 600;
@@ -56,9 +56,9 @@ a, a:hover {
 
 .cms p:nth-child(1) {
     margin: 2rem 0;
-    font-size: 1.3rem;
+    font-size: 1.4rem;
     letter-spacing: -.03rem;
-    initial-letter: 3.0;
+    initial-letter: 3;
 }
 
 .card p {

@@ -6,7 +6,6 @@ whetter: "Tourist mode"
 photo: "/img/photos/pho-26/restaurant-pho-26.jpg"
 featloc: "start"
 ---
-
 Long weekend o sa lokal na tawag, *"super puente".* Habang karamihan dito sa Madrid ay nasa labas ng ciudad, kaming pamilya naman ay nag-stroll sa centro—tourist mode!
 
 ![Plaza de España](/img/photos/pho-26/fountain-pza-españa.jpg)
@@ -25,10 +24,8 @@ Kursunada lang talaga namin na mananghalian ng Asian kaya naisip namin Korean ka
 
 Pero katulad na kuwento—punô at kailangan ng patiunang reservation. Pero teka, kanina habang sinusundan ang mando ng Google Maps kung nasaan ang Korean restaurant, napalingon na kami isa pang Asian restaurant na nadaanan namin at tinandaang babalikan sa ibang araw. Ngayon na ang ibang araw na 'yan!
 
+Napadpad kami sa Calle Leganitos at naroon ang Pho 26! Good sign dahil pagpasok namin, tinanong kung ilang kami at nag-alok agad ng mauupuan.
 
-
-Napadpad kami sa Calle Leganitos at naroon ang Pho 26! Good sign dahil pagpasok namin, tinanong kung ilang kami at nag-alok agad mng mauup
-
+![Lemongrass pork spare ribs](/img/photos/pho-26/pork-ribs-lemongrass.jpg)
 ![Sriracha Rooster – the real deal](/img/photos/pho-26/sriracha-rooster.jpg)
 ![Crispy fried duck](/img/photos/pho-26/fried-duck.jpg) 
-![Lemongrass pork spare ribs](/img/photos/pho-26/pork-ribs-lemongrass.jpg)
