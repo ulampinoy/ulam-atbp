@@ -15,11 +15,19 @@ Nag-umpisa ang aming pamamasyal sa Plaza de España umaasang makapanananghalian 
 
 ![Underground parking of Plaza de España](/img/photos/pho-26/underground-pza-spain.jpg)
 
-Dahil sa mahabang pila wala kaming choice kundi maghanap ng ibang makakainan, binaybay namin ang Gran Vía.
+Dahil sa nadatnan naming mahabang pilang at wala kaming reservation, wala kaming choice kundi maghanap ng ibang makakainan. Binaybay namin ang grandesyisong Gran Vía.
 
 ![Gran Vía – Callao](/img/photos/pho-26/gran-via-callao.jpg)
 
-Napadpad kami sa Calle Leganitos at naroon ang Pho 26!
+Kursunada lang talaga namin na mananghalian ng Asian kaya naisip namin Korean kaya? May sumagi sa isipan kong nakainan namin noon kasama ng aking mga katrabaho at sa tulong na rin ni Google nakumpirma namin na malapit na kami sa Korean resto na yan. Derecho lang. Kaunti pang lakad pa at narating namin ang 📍 Calle de la Bola... 
+
+![Restaurante Arirang](/img/photos/pho-26/restaurante-arirang.jpg)
+
+Pero katulad na kuwento—punô at kailangan ng patiunang reservation. Pero teka, kanina habang sinusundan ang mando ng Google Maps kung nasaan ang Korean restaurant, napalingon na kami isa pang Asian restaurant na nadaanan namin at tinandaang babalikan sa ibang araw. Ngayon na ang ibang araw na 'yan!
+
+
+
+Napadpad kami sa Calle Leganitos at naroon ang Pho 26! Good sign dahil pagpasok namin, tinanong kung ilang kami at nag-alok agad mng mauup
 
 ![Sriracha Rooster – the real deal](/img/photos/pho-26/sriracha-rooster.jpg)
 ![Crispy fried duck](/img/photos/pho-26/fried-duck.jpg) 

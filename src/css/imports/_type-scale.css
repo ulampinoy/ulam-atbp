@@ -8,7 +8,6 @@
 .f8 { font-size: .567rem; }
 .f-subheadline { font-size: 3.2rem; }
 
-
 @media (--breakpoint-not-small) {
   .f-6-ns,
   .f-headline-ns { font-size: 6rem; }
