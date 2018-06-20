@@ -1,0 +1,29 @@
+{{ define "main" }}
+<article>
+  <header class="max-vh-100-m vh-50 dt w-100">
+    {{ if .Params.photo }}
+    <div class="bg-pos-center bg-size-cover dtc v-btm cover ph4 ph5-l " style="background-image:url({{ .Params.photo }});">
+      <h4 class="f6 upc white">{{ .Params.whetter }}</h4>
+      <h1 class="f2 fw9 mb5 f-subheadline-ns measure lh-title white">{{.Title}}</h1>
+    </div>
+    {{ end }}
+  </header>
+  <div class="cms pa3 ph5-ns w-100">
+    {{ .Content }}
+  </div>
+  <div class="cms pa3 ph5-ns w-100">
+    <div class="flex flex-wrap f6 fw8 mb4 justify-between">
+      {{if .Prev}}
+      <span class="w-auto">
+        <a class="ph3 pv2 ba br1" href="{{.Prev.Permalink}}">← {{.Prev.Title}}</a>
+      </span>
+      {{end}} {{if .Next}}
+      <span class="w-auto tr">
+        <a class="ph3 pv2 ba br1" href="{{.Next.Permalink}}">{{.Next.Title}} →</a>
+      </span>
+      {{end}}
+
+    </div>
+  </div>
+</article>
+{{ end }}

@@ -1,0 +1,14 @@
+<section class="new w-100 w-third-l mv3-l pt2">
+	{{ range first 2 (where .Data.Pages "Type" "photos") }} 
+		{{ if not (in .Params.featloc "start")}}
+		<div class="mh3-ns pv1-ns flex bb-ns mb2 mb0-ns b--grey-2">
+			<a href="{{ .Permalink }}" class="pv2 mv1 db w-100">
+				<img class="w-100 w-25-ns w-30-l fl-ns fr-m mr4 mr0-m ml3-m mt1 mb3" src="{{ .Params.photo }}" alt="cover photo: {{ .Title }}">
+				<h3 class="f6 f8-l mb1 upc">{{ .Params.whetter }}</h3>
+				<h2 class="f4 f6-m b lh-title mb1 link">{{ .Title }}</h2>
+				<p class="f5 f7-m mb0">{{ .Description }}</p>
+			</a>
+		</div>
+		{{ end }} 
+	{{ end }}
+</section>
