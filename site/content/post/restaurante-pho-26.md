@@ -18,7 +18,7 @@ Dahil sa nadatnan naming mahabang pilang at wala kaming reservation, wala kaming
 
 ![Gran Vía – Callao](/img/photos/pho-26/gran-via-callao.jpg)
 
-Kursunada lang talaga namin na mananghalian ng Asian kaya naisip namin Korean kaya? May sumagi sa isipan kong nakainan namin noon kasama ng aking mga katrabaho at sa tulong na rin ni Google nakumpirma namin na malapit na kami sa Korean resto na yan. Derecho lang. Kaunti pang lakad pa at narating namin ang 📍 Calle de la Bola... 
+Kursunada lang talaga namin na mananghalian ng Asian kaya naisip namin Korean kaya? May sumagi sa isipan kong nakainan namin noon kasama ng aking mga katrabaho at sa tulong na rin ni Google nakumpirma namin na malapit na kami sa Korean resto na yan. Derecho lang. Kaunti pang lakad pa at narating namin ang 📍 Calle de la Bola...
 
 ![Restaurante Arirang](/img/photos/pho-26/restaurante-arirang.jpg)
 
@@ -28,4 +28,6 @@ Napadpad kami sa Calle Leganitos at naroon ang Pho 26! Good sign dahil pagpasok 
 
 ![Lemongrass pork spare ribs](/img/photos/pho-26/pork-ribs-lemongrass.jpg)
 ![Sriracha Rooster – the real deal](/img/photos/pho-26/sriracha-rooster.jpg)
-![Crispy fried duck](/img/photos/pho-26/fried-duck.jpg) 
+![Crispy fried duck](/img/photos/pho-26/fried-duck.jpg)
+
+Masarap na tanghalian at ready na para mamasyal. Next stop, Real Jardín Botanico de Madrid!
