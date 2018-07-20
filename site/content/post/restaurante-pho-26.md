@@ -1,7 +1,7 @@
 ---
 title: "Restaurante Pho 26"
 date: 2018-05-09T08:57:25+02:00
-description: "Maging turista sa sarili mong ciudad"
+description: "Maging turista sa sarili mong bayan"
 whetter: "Tourist mode"
 photo: "/img/photos/pho-26/restaurant-pho-26.jpg"
 featloc: "start"
