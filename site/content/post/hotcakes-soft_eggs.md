@@ -11,9 +11,6 @@ Matingkad at masasayang mga alaala ang bumabalik dulot ng masasarap na langhap. 
 
 ![Hotcake Tower of Tastyness](/img/photos/hotcake-tower.jpg)
 
-Wala nang mas teterno pa sa hotcake kundi pritong itlog (iklog, yan ang bigkas ng Lola ko).
+Wala nang mas teterno pa sa hotcake kundi pritong itlog (iklog, 'ika nga ng Lola ko).
 
 ![Soft scrambled eggs](/img/photos/soft-eggs.jpg)
-
-
-The secret
