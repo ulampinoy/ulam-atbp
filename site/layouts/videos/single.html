@@ -1,3 +1,7 @@
+{{ define "head" }}
+  {{ partial "head" . }}
+  {{ partial "auto-ads" . }}
+{{ end }}
 {{ define "main" }}
 <article>
   <header class="max-vh-100-m vh-50 dt w-100">
@@ -30,7 +34,7 @@
         <a class="ph3 pv2 ba br1" href="{{.Next.Permalink}}">{{.Next.Title}} →</a>
       </span>
       {{end}}
-      
+
     </div>
   </div>
 </article>
